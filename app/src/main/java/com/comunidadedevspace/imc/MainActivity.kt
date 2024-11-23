@@ -14,9 +14,9 @@
 
         val edtPeso = findViewById<TextInputEditText>(R.id.edt_peso)
         val edtAltura = findViewById<TextInputEditText>(R.id.edt_altura)
-        val btncalcular = findViewById<Button>(R.id.btn_calcular)
+        val btnCalcular = findViewById<Button>(R.id.btn_calcular)
 
-            btncalcular.setOnClickListener {
+            btnCalcular.setOnClickListener {
                 val pesStr: String = edtPeso.text.toString()
                 val altStr: String = edtAltura.text.toString()
 
