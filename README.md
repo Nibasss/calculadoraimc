@@ -1,19 +1,30 @@
 # Calculadora IMC
-Desc
+Este projeto foi desenvolvido no contexto dos estudos de desenvolvimento Android, com o objetivo de praticar e aprimorar os conhecimentos adquiridos na criação de aplicativos funcionais e intuitivos.
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+<!-- You can add more screenshots here if you like --> 
+<img src="https://github.com/user-attachments/assets/3e1ab9d3-f326-4601-a0e4-ddce79a9093e" width=260/>
+<img src="https://github.com/user-attachments/assets/e4050317-c1f0-4be3-9a11-b21ea7fb4595" width=260/>
+
 
 ## Tecnologias
-Techs
+- Activity
+- Intent
+- ViewGroup
+  - LinearLayout
+  - ConstraintLayout
+- Views
+  - ImageView
+  - TextView
+  - EditText
+  - Bottom
 
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2024 Sabin Missagne
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
